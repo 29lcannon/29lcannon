@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Kefflings
 - 👀 I’m interested in building a website from scratch.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on any creative projects!
+- 📫 How to reach me: Email - 29lcannon@gmail.com
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can say my ABCs backwards!
 
 <!---
