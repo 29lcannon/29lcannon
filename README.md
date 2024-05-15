@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kefflings
+- 👋 Hi, I’m Luke
 - 👀 I’m interested in building a website from scratch.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on any creative projects!
